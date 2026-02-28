@@ -9,7 +9,7 @@ To provide leaders with the foundational insights required to execute strategy w
 
 ## Arkhini: from *Vision* to *Execution*
 
-**Arkhini** (derived from the Sanskrit *Arkh* and the Greek *Arkhe*) is more than just a name; it is a declaration of intent for the modern enterprise. It represents the bridge between the **Vision** of a business and its **Radiant Execution.**
+**Arkhini** (derived from the Sanskrit `arka` and the Greek `Arkhe`) is more than just a name; it is a declaration of intent for the modern enterprise. It represents the bridge between the **Vision** of a business and its **Radiant Execution.**
 
 In creating a tool that models complexity and tracks the trajectory of global organizations, we chose a name that reflects the three pillars of our platform:
 
